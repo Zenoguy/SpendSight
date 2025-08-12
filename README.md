@@ -39,39 +39,39 @@ Whether you're an individual tracking monthly expenses or a small business conso
 
 ### Frontend Setup
 
-# Clone repo
+## Clone repo
 git clone https://github.com/Zenoguy/SpendSight.git
 
-# Go into folder
+## Go into folder
 cd FrontEnd
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Start dev server
+## Start dev server
 npm run dev
 
-# Backend Setup
+### Backend Setup
 
-# Navigate to backend folder
+## Navigate to backend folder
 cd backend
 
-# Create virtual env & activate
+## Create virtual env & activate
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run server
+## Run server
 uvicorn main:app --reload
 
-# 🔒 Privacy & Disclaimer
+## 🔒 Privacy & Disclaimer
 SpendSight does not request or store bank login credentials. All processing happens only on files you voluntarily upload. You may redact sensitive details before upload.
 See [Privacy Policy](https://github.com/Zenoguy/SpendSight/blob/main/SpendSight_PrivacyPolicy.md) for details.
 
-# 📌 Roadmap
+## 📌 Roadmap
  Complete backend with FastAPI + Supabase
 
  Add AI Insights to business-tier dashboard
@@ -80,7 +80,7 @@ See [Privacy Policy](https://github.com/Zenoguy/SpendSight/blob/main/SpendSight_
 
  Deploy full-stack app
 
-# 🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
