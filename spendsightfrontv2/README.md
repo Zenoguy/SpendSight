@@ -68,4 +68,3 @@ A smart, intuitive frontend for transforming raw bank statements into actionable
 ├── index.css                # Global styles
 ├── main.tsx                 # Application entry point
 ├── vite-env.d.ts            # Vite-specific TypeScript types
-# SpendSight
