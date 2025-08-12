@@ -1,6 +1,6 @@
 # 💰 SpendSight
 
-**SpendSight** is a lightweight web-based tool that transforms messy Indian bank statement PDFs into clean, structured CSV/Excel files — with instant categorization, AI-powered insights, and even bill photo uploads.  
+[**SpendSight**](https://spendsight.netlify.app/) is a lightweight web-based tool that transforms messy Indian bank statement PDFs into clean, structured CSV/Excel files — with instant categorization, AI-powered insights, and even bill photo uploads.  
 Whether you're an individual tracking monthly expenses or a small business consolidating finances, SpendSight makes financial clarity just one click away.
 
 ---
@@ -69,7 +69,7 @@ uvicorn main:app --reload
 
 # 🔒 Privacy & Disclaimer
 SpendSight does not request or store bank login credentials. All processing happens only on files you voluntarily upload. You may redact sensitive details before upload.
-See Privacy Policy [https://github.com/Zenoguy/SpendSight/blob/main/SpendSight_PrivacyPolicy.md] for details.
+See [Privacy Policy](https://github.com/Zenoguy/SpendSight/blob/main/SpendSight_PrivacyPolicy.md) for details.
 
 # 📌 Roadmap
  Complete backend with FastAPI + Supabase
